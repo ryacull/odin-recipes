@@ -4,23 +4,26 @@ body {
 
 h1#main-header {
     color: rgba(0, 115, 255, 0.824);
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
 }
 
 ul.recipes {
-    color:rgb(255, 158, 184);
-    list-style-type: lower-greek;
+    color:rgb(173, 158, 255);
 }
 
 a {
-    color: rgb(87, 177, 212);
-}
-
-li.miso-soup.link-style {
-    color: rgb(255, 158, 184);
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 
-a.link-style {
-    text-decoration: none;
+a.miso-soup {
+    color: rgb(255, 158, 184);
+}
+
+a.kimbop {
+    color: rgb(255, 144, 156);
+}
+
+a.donburi {
+    color: rgb(215, 117, 133);
 }

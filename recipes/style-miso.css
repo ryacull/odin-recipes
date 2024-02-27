@@ -1,9 +1,11 @@
 body {
-    background-color:rgb(143, 138, 73)
+    background-color:rgb(143, 138, 73);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1#main-header {
-    color:rgb(250, 226, 179)
+    color:rgb(250, 226, 179);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h2.description {
@@ -21,4 +23,9 @@ h2.steps {
 img.miso-soup {
     width: auto;
     height: 325px;
+}
+
+img.house-icon {
+    width: 20px;
+    height: 20px;
 }

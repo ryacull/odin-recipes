@@ -1,0 +1,26 @@
+body {
+    background-color:blanchedalmond;
+}
+
+h1#main-header {
+    color: rgba(0, 115, 255, 0.824);
+    font-family: 'Courier New', Courier, monospace
+}
+
+ul.recipes {
+    color:rgb(255, 158, 184);
+    list-style-type: lower-greek;
+}
+
+a {
+    color: rgb(87, 177, 212);
+}
+
+li.miso-soup.link-style {
+    color: rgb(255, 158, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.link-style {
+    text-decoration: none;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(143, 138, 73)
+}
+
+h1#main-header {
+    color:rgb(250, 226, 179)
+}
+
+h2.description {
+    color: rgb(255, 196, 0);
+}
+
+h2.ingredients {
+    color: rgb(200, 150, 0);
+}
+
+h2.steps {
+    color: rgb(175, 110, 0);
+}
+
+img.miso-soup {
+    width: auto;
+    height: 325px;
+}

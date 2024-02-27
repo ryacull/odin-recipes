@@ -1,0 +1,24 @@
+body {
+    background-color: mistyrose;
+}
+
+h1#main-header {
+    color:rgb(64, 200, 218)
+}
+
+h2.description {
+    color: rgba(59, 94, 248, 0.798);
+}
+
+h2.ingredients {
+    color: rgba(30, 63, 248, 0.603);
+}
+
+h2.steps {
+    color: rgba(18, 45, 248, 0.321);
+}
+
+img.kimbop {
+    width: auto;
+    height: 325px;
+}
